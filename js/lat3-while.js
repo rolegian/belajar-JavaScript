@@ -9,3 +9,9 @@ while(nilaiAwal<=3){
     console.log('Hello world');
     nilaiAwal++;
 }
+
+var angkot= 1;
+while(angkot<=10){
+    console.log('Angkot No. '+ angkot+ ' beroprasi dengan baik');
+    angkot++;
+}
