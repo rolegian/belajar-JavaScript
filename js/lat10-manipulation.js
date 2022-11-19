@@ -31,3 +31,5 @@ const ul = document.querySelector('section#b ul');
 const li2 = ul.querySelector('li:nth-child(2)');
 
 ul.insertBefore(liBaru,li2);
+
+
